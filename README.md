@@ -1,6 +1,8 @@
 <h4 align="left">Hi 👋, I'm Arpit Mehrotra</h4>
-I am a Full-Stack developer from India currently working on Angular, AWS.
+I am a Full-Stack Web Engineer from India focused on building awesome and accessible web applications.
 <p></p>
 
-- I’m currently learning **Tensorflow.js** <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="20" height="20"/> </a>
-- You can connect with me on <a href="https://www.linkedin.com/in/arpitmehrotra/" target="blank">LinkedIn</a></span>
+- 🏢 Working with <a href="https://www.adp.com" target="blank">ADP</a> as Senior Consultant,
+- 🚀 Currently building applications in: <strong>Angular, AWS, StencilJS</strong>
+- 💻 Skills: <strong>Angular, React, AWS, TypeScript, JavaScript, NodeJS</strong>
+- 🤝 You can connect with me on <a href="https://www.linkedin.com/in/arpitmehrotra/" target="blank">LinkedIn</a></span>
