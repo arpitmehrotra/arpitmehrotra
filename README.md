@@ -3,6 +3,6 @@ I am a Full-Stack Web Engineer from India focused on building awesome and access
 <p></p>
 
 - 🏢 Working with <a href="https://www.adp.com" target="blank">ADP</a> as Senior Consultant,
-- 🚀 Currently building applications in: <strong>Angular, AWS, StencilJS</strong>
-- 💻 Skills: <strong>Angular, React, AWS, TypeScript, JavaScript, NodeJS, Docker</strong>
+- 🚀 Currently building applications in: <strong>Angular, AWS, Python</strong>
+- 💻 Skills: <strong>Angular, React, AWS, TypeScript, JavaScript, NodeJS, Docker, Python</strong>
 - 🤝 You can connect with me on <a href="https://www.linkedin.com/in/arpitmehrotra/" target="blank">LinkedIn</a></span>
